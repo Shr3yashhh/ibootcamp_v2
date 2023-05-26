@@ -19,7 +19,7 @@
 2. [animal](#nn)
 3. asdfasdf
 4. sdsadfs
-5. sadfasdf
+5. skldfjlakdsf
 
 
 
@@ -35,8 +35,8 @@
 above text can be helpful while creating the anchor for linking to diff sections on the same markdown page from the table of content
 
 
-git init => git initilize
-
+git init => git initilize  
+-m = message 
 
 
 
